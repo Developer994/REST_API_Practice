@@ -1,0 +1,23 @@
+{
+  "name": "rest_api_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Developer994/REST_API_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Developer994/REST_API_Practice/issues"
+  },
+  "homepage": "https://github.com/Developer994/REST_API_Practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
