@@ -18,6 +18,13 @@
   },
   "homepage": "https://github.com/Developer994/REST_API_Practice#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "body-parser": "^1.19.0",
+    "create-react-class": "^15.6.3",
+    "express": "^4.17.1",
+    "geojson": "^0.5.0",
+    "geonear": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
   }
 }
