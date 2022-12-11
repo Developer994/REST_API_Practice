@@ -20,7 +20,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "create-react-class": "^15.6.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "geojson": "^0.5.0",
     "geonear": "^1.0.1"
   },
